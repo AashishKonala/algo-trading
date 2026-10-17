@@ -1,7 +1,8 @@
+
 # Java build output
 *.class
-out/
 target/
+**/target/
 
 # Node / React
 node_modules/
