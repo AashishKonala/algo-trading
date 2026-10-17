@@ -1,0 +1,25 @@
+# Java build output
+*.class
+out/
+target/
+
+# Node / React
+node_modules/
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+
+# IDE and operating system files
+.idea/
+.DS_Store
+Thumbs.db
